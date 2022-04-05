@@ -1,1 +1,2 @@
-# puzzles
+# Puzzles
+Coding challenges.
